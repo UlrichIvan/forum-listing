@@ -1,4 +1,4 @@
-#init app 
+# init app 
 ### `npm install or yarn install`
 # run app 
 
