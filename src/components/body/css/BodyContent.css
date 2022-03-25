@@ -1,0 +1,104 @@
+.body-content {
+  margin-bottom: 101px;
+}
+
+.body-content .header h3 {
+  color: #000000;
+  font-size: 32px;
+}
+
+.body-content .body-content-item {
+  border: 1px solid #f2f2f2;
+  padding: 24px;
+  padding-right: 24px;
+  padding-left: 40px;
+  background-color: #fff;
+  margin-bottom: 32px;
+}
+
+.body-content .body-content-item .right {
+  border-left: 1px solid #e5e5e5;
+}
+
+.body-content .body-content-list {
+  margin-top: 32px;
+}
+
+.body-content .body-content-list h3 {
+  color: #000000;
+  font-size: 24px;
+}
+
+.body-content .body-content-list p {
+  font-size: 14px;
+}
+
+.body-content .body-content-list .items {
+  padding: 0 16px !important;
+}
+
+.body-content .body-content-list .items .item:first-child {
+  margin-right: 64px;
+}
+
+.body-content .body-content-list .right-first h5,
+.body-content .body-content-list .right-second h5 {
+  font-size: 15px;
+  font-family: "Hero new";
+  color: #999999;
+}
+
+.body-content .body-content-list .right-second {
+  padding: 0 16px !important;
+}
+
+.body-content .body-content-list .right-second p {
+  font-size: 16px;
+  font-family: "Hero new";
+  color: #000000;
+}
+
+.body-content .body-content-list .right-second h5 {
+  margin-top: 33px;
+}
+
+.body-content .target {
+  font-size: 24px;
+  font-family: "Hero new";
+  color: #000000;
+}
+
+.body-content .back {
+  padding: 0.5rem;
+  background-color: #0000000a;
+  font-size: 14px;
+  font-family: "Hero new";
+  cursor: default;
+  border: 1px solid #f2f2f2;
+}
+
+.body-content .table {
+  font-size: 12px;
+  font-family: "Hero new";
+  text-transform: capitalize;
+  table-layout: fixed;
+}
+
+.body-content .table td,
+.body-content .table th {
+  color: #999999;
+}
+
+.body-content .table thead th:first-child {
+  width: 40%;
+}
+
+.body-content .table tbody th:first-child {
+  font-size: 16px;
+}
+
+.body-content .table th.subject,
+.body-content .table td.category {
+  color: #000000 !important;
+  font-size: 14px;
+}

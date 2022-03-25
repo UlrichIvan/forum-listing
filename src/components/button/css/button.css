@@ -1,0 +1,13 @@
+.btn.btn-primary {
+  border-radius: 2rem !important;
+  background-color: #04f2f2 !important;
+  border: 0;
+}
+
+.btn.btn-primary:hover {
+  background-color: #f2b705 !important;
+}
+
+.btn.btn-primary i {
+  color: #000000;
+}

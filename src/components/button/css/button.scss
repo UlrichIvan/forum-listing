@@ -1,0 +1,13 @@
+@import "../../variables";
+
+.btn.btn-primary {
+  border-radius: 2rem !important;
+  background-color: $bgbtn;
+  &:hover {
+    background-color: $bgbtnhover;
+  }
+  border: 0;
+  i {
+    color: $linkcolor;
+  }
+}

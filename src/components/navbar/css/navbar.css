@@ -1,0 +1,38 @@
+.nav-bar {
+  background-color: #fff;
+  -webkit-box-shadow: 0 4px 8px #0000000a;
+          box-shadow: 0 4px 8px #0000000a;
+  padding: 0 82px;
+}
+
+.nav-bar .navbar-brand {
+  margin-right: 32px;
+}
+
+.nav-bar .nav-bar-item-left {
+  padding: 16px 0;
+}
+
+.nav-bar .link-item {
+  font-family: "Hero new";
+  font-weight: bold;
+  margin-right: 24px;
+  text-transform: capitalize;
+}
+
+.nav-bar .link-item a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.nav-bar .links {
+  margin-left: 32px;
+}
+
+.nav-bar .links .dropdown-toggle::after {
+  vertical-align: 0.1em;
+}
+
+.nav-bar li {
+  list-style-type: none;
+}

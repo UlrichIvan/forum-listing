@@ -1,0 +1,11 @@
+@import "../../variables";
+.body {
+  margin-top: 32px;
+  li {
+    list-style-type: none;
+  }
+  a {
+    text-decoration: none;
+    color: $linkcolor;
+  }
+}

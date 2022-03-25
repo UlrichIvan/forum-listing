@@ -1,0 +1,32 @@
+@import "../../variables";
+
+.nav-bar {
+  background-color: $navbarbg;
+  box-shadow: 0 4px 8px $blur;
+  padding: 0 82px;
+  .navbar-brand {
+    margin-right: 32px;
+  }
+  .nav-bar-item-left {
+    padding: 16px 0;
+  }
+  .link-item {
+    a {
+      color: $linkcolor;
+      text-decoration: none;
+    }
+    font-family: $hero;
+    font-weight: bold;
+    margin-right: 24px;
+    text-transform: capitalize;
+  }
+  .links {
+    margin-left: 32px;
+    .dropdown-toggle::after {
+      vertical-align: 0.1em;
+    }
+  }
+  li {
+    list-style-type: none;
+  }
+}

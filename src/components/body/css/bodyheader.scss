@@ -1,0 +1,13 @@
+@import "../../variables";
+.body-header {
+  h3 {
+    font-size: 40px;
+    font-family: $hero;
+  }
+
+  p {
+    font-size: 18px;
+    margin-top: 8px;
+    color: #666666;
+  }
+}

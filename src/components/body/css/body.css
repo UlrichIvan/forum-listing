@@ -1,0 +1,12 @@
+.body {
+  margin-top: 32px;
+}
+
+.body li {
+  list-style-type: none;
+}
+
+.body a {
+  text-decoration: none;
+  color: #000000;
+}
